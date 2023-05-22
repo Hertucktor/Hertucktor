@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vincent Poneleit or @Hertucktor on Github
+- 👋 Hi, I’m @Hertucktor on Github
 - 👀 I’m interested in DevOps, software/system architecture and finding the golden ticket to not fall over my own technical debt
 - 🌱 I’m always open for trying new stuff and learning from others
 - 💞️ I’m looking to collaborate on all kinds of nerdy projects preferable on magic the gathering or dungeons and dragons related stuff  
